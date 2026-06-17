@@ -1,0 +1,8 @@
+{
+  "name": "Proximity V2.6",
+  "description": "A community-driven marketplace connecting local home cooks with hungry neighbors for fresh, authentic homemade meals.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
