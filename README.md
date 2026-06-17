@@ -2,9 +2,6 @@
 
 Proximity is a geo-fenced hyperlocal food commerce platform that connects verified home cooks (Providers) with nearby consumers (Buyers) within a 500–1000 meter radius. Built using React Native and packaged as an Android APK via Capacitor, the app eliminates the need for delivery services by enabling a direct pickup model. Providers undergo a manual license verification process before listing food items, ensuring trust and authenticity. The platform supports real-time food discovery based on GPS location, dual payment modes (Pay Now via Razorpay and Pay on Pickup), in-order chat between Buyer and Provider, live order status tracking, Google Maps-based location sharing, and a post-order review system. Firebase serves as the complete backend infrastructure handling authentication, real-time database, and media storage.
 
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
 ## Run Locally
 
